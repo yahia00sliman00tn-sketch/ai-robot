@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Robot</string>
+    <string name="add_response">Add Response</string>
+    <string name="keyword">Keyword</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="ok">OK - Start AI</string>
+    <string name="listening">Listening...</string>
+    <string name="tap_keyword">Enter keyword</string>
+</resources>
